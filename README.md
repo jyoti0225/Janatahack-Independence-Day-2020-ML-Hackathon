@@ -1,5 +1,5 @@
 # Janatahack-Independence-Day-2020-ML-Hackathon
-This hackathon was organised by Analytics Vidya to showcase machine learning skills by sharing approaches and more important to learn how to apply machine learning and predictive analytics to new domains. In this hackathon, we have to perform Topic Modeling for Research Articles.It is a multi-label classification problem.<br>
+This hackathon was organised by Analytics Vidhya to showcase machine learning skills by sharing approaches and more important to learn how to apply machine learning and predictive analytics to new domains. In this hackathon, we have to perform Topic Modeling for Research Articles.It is a multi-label classification problem.<br>
 In this repository, I used machine learning and deep learning models along with NLP to solve this problem.
 
 ## Problem Statement - 
